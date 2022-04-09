@@ -36,6 +36,7 @@ target/
 .vscode
 /gradlew
 /gradlew.bat
+/.gradle
 
 # Ignore Gradle project-specific cache directory
 .gradle

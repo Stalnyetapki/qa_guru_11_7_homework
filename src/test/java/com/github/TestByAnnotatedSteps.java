@@ -36,4 +36,16 @@ public class TestByAnnotatedSteps {
         steps.takeScreenshot();
     }
 
+    @Test
+    public void doNothingMethod () {
+    }
+
+    @Test
+    public void doNothingMethodSecond () {
+    }
+
+    @Test
+    public void doNothingMethodThird () {
+    }
+
 }
